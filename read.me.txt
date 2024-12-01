@@ -1,0 +1,39 @@
+Aigües de Barcelona - Water Meter Prioritization App
+
+Instructions for Running the App Locally
+
+Follow these steps to set up and run the app on your local machine:
+
+-----------------------------------
+
+Unzip the Files: Unzip the provided ZIP file that contains all necessary project files.
+
+-----------------------------------
+
+Open Terminal:
+
+For Windows: Open Anaconda Prompt or Command Prompt.
+
+For Mac/Linux: Open your preferred terminal.
+
+-----------------------------------
+
+Install Dependencies:
+
+Navigate to the unzipped folder using the command line.
+
+Run the following command to install the required dependencies:
+
+pip install -r requirements.txt
+
+-----------------------------------
+
+Run the Streamlit App:
+
+Start the application by running the following command in the terminal:
+
+streamlit run app.py
+
+-----------------------------------
+
+Once the command runs successfully, your browser should automatically open the app at localhost:8501. If it doesn't open automatically, you can manually open your browser and go to http://localhost:8501.
